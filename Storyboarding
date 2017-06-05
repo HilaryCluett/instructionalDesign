@@ -1,0 +1,47 @@
+Information for a storyboard (screen by screen)
+  project title and screen information (screen x of y)
+  on screen label (screen title)
+  on screen graphics and texts (mok-up)
+  voice over narration (speech captions)
+  navigation indications (buttons) - fill in navigation instructions (does it advance by user? or automatically by time?)
+  notes and captions
+  text description (format feedback users receive after actions are taken)
+  comments from users (instructions on how and where to comment - set number of review cycles
+    1. insert comments in the proper place 
+    2. leave alternatives to things you don't like 
+    3. identify your comments 
+    4. send in comments by the due date
+
+Types of storyboards
+  Text-Based
+  Visual
+  Audio
+  Rapid Prototype (look and feel)
+
+Reviewers - Need just enough details 
+  set number of review cycles
+  before making an edit ask for clarification
+  master list of must-have changes 
+  
+SME - subject matter expert
+
+Building Instructional Design
+  Analysis - Needs Analysis - What????
+  Learning Objectives and Topics
+  Quality Content that relates to learning objectives
+  Content Development (branching scenarios)
+  Elearning Development - storyboarding
+  Course Completion
+
+Types of Instruction
+  Scenario Based Instruction
+
+Slides in an elearning environment (SCORM compliant)
+  opening slide - navigation tools - start learning & take quiz
+  quiz slide
+  quiz reporting slide (usually hidden and reports to an LMS)
+  feedback slide for users (navigation indications)
+  end slide - start again & exit (necessary for SCORM)
+
+
+
